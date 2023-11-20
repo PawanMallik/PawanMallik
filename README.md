@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PawanMallik
-- 👀 I’m interested in Web developer 
-- 🌱 I’m currently learning FrontEnd
+- 👀 I’m interested in Web development 
+- 🌱 I’m currently learning FrontEnd developer 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
